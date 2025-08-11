@@ -4,7 +4,7 @@ import plotly.express as px
 from datetime import datetime, timedelta
 
 # Settings
-SLOW_THRESHOLD_MS = 200      # >200ms = slow
+SLOW_THRESHOLD_MS = 100.0      # >200ms = slow
 DISCONNECT_TIMEOUT_SEC = 5   # Missing for >5s = disconnected
 
 processed = []
@@ -32,7 +32,10 @@ with open("ping_monitor.log") as f:
         ip = result.get("target")
         name = result.get("name")
         status = result.get("status")
+        # print(name)
+        # print(status)
         delay_s = result.get("delay_ms")
+        # print(delay_s)
         timestamp = result.get("timestamp")
 
         # Parse timestamp
@@ -45,11 +48,12 @@ with open("ping_monitor.log") as f:
         else:
             continue
 
-        # Convert delay from seconds to ms if not None
-        delay_ms = delay_s * 1000 if delay_s is not None else None
+        
+        delay_ms = delay_s if delay_s is not None else None
+        print(delay_ms)
 
         # Detect status
-        if status == "failed":
+        if status == "disconnected":
             norm_status = "disconnected"
         elif delay_ms is not None and delay_ms > SLOW_THRESHOLD_MS:
             norm_status = "slow"
@@ -64,16 +68,16 @@ with open("ping_monitor.log") as f:
         })
 
         # Check for disconnection due to missing pings
-        if ip in last_seen:
-            gap = (dt - last_seen[ip]).total_seconds()
-            if gap > DISCONNECT_TIMEOUT_SEC:
-                processed.append({
-                    "ip": ip,
-                    "name": name,
-                    "status": "disconnected",
-                    "timestamp": last_seen[ip] + timedelta(seconds=1)
-                })
-        last_seen[ip] = dt
+        # if ip in last_seen:
+        #     gap = (dt - last_seen[ip]).total_seconds()
+        #     if gap > 1:
+        #         processed.append({
+        #             "ip": ip,
+        #             "name": name,
+        #             "status": "disconnected",
+        #             "timestamp": last_seen[ip] + timedelta(seconds=1)
+        #         })
+        # last_seen[ip] = dt
 
 # Convert to DataFrame
 df = pd.DataFrame(processed)
