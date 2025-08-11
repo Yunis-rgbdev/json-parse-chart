@@ -1,0 +1,742 @@
+{"result": {"timestamp": "2025-08-11 11:49:21", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.113, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:21", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.107, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:21", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.103, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:22", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.138, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:22", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.134, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:22", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.187, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:24", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.126, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:24", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.123, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:24", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.156, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:24", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.044, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:25", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.245, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:25", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.221, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:27", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.069, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:27", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.212, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:27", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 7.42, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:27", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.063, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:27", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.073, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:27", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.099, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:29", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.122, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:29", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.087, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:29", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.064, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:29", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.129, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:29", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.059, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:29", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.071, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:31", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.177, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:31", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.101, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:31", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.058, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:31", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.084, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:31", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.097, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:31", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.127, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:33", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.187, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:33", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.11, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:33", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 3.34, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:33", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.024, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:33", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.077, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:33", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.086, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:35", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.083, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:35", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.039, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:35", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.028, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:35", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.073, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:35", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.112, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:35", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.063, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:37", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.126, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:37", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.054, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:37", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.116, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:37", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.115, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:37", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.05, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:37", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.04, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:39", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.262, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:39", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.187, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:39", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.271, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:39", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.138, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:39", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.058, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:39", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.045, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:41", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.171, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:41", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.077, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:41", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.108, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:41", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.124, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:41", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.046, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:41", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.065, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:43", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.096, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:43", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.129, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:43", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.103, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:43", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.075, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:43", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.043, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:43", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.065, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:45", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.122, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:45", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.248, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:45", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 5.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:45", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.073, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:45", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.08, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:45", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.057, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:47", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.081, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:47", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.077, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:47", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.053, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:47", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.122, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:47", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.066, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:47", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.121, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:49", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.068, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:49", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.146, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:49", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.051, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:49", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.062, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:49", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.032, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:49", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.076, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:51", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.141, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:51", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.091, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:51", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 3.91, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:51", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.125, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:51", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.111, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:51", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.119, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:53", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.055, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:53", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.057, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:53", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.113, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:53", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.049, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:53", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.043, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:53", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 1.68, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:55", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.068, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:55", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.078, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:55", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.062, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:55", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.056, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:55", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.032, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:55", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.042, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:57", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.124, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:57", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.076, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:57", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.043, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:57", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.095, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:57", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.039, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:57", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 1.85, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:49:59", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.155, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:59", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.132, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:59", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.172, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:59", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.122, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:59", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.048, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:49:59", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.101, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:50:01", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.054, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:01", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.109, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:01", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.106, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:01", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.125, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:01", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.071, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:01", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.051, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:50:03", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.234, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:03", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.099, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:03", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.061, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:03", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.043, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:03", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.132, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:03", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 2.1, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:50:05", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.119, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:05", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.192, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:05", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.157, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:05", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.045, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:05", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.134, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:05", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.153, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:50:07", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.144, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:07", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.092, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:07", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.15, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:07", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.101, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:07", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.048, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:07", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.168, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 11:50:09", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.183, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:09", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.107, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 11:50:09", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 2.86, "color": "green"}}
+Stopped by user.
+{"result": {"timestamp": "2025-08-11 11:50:09", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.056, "color": "green"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "No error output"}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 11:50:09", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 11:50:09", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:33", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.171, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:33", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.04, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:33", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.146, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:34", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.064, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:34", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.089, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:34", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.091, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:35:36", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.184, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:36", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.092, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:36", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.06, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:36", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.158, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:36", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.14, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:36", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.055, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:35:38", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.182, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:38", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.097, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:38", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.05, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:38", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.156, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:38", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.076, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:38", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.226, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:35:40", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.15, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:40", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.128, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:40", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.096, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:40", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.051, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:40", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.088, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:40", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.072, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:35:42", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.106, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:42", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.304, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:42", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.282, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:42", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.111, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:42", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.11, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:42", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.052, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:35:44", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.071, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:44", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.074, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:44", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.101, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:44", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.101, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:44", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.182, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:44", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.055, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:35:46", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.169, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:46", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.08, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:46", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.048, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:46", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.032, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:46", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.076, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:46", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.113, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:35:48", "name": "VoIP", "target": "10.60.0.1", "status": "connected", "delay_ms": 0.271, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:48", "name": "WireGaurd", "target": "10.60.0.4", "status": "connected", "delay_ms": 0.136, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:48", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 0.105, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:48", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 0.099, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:48", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 0.102, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:35:48", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 0.331, "color": "green"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": true, "10.60.0.4": true}}}
+{'overall_connection': 'connected'}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:50", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:50", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:50", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:50", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:50", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:50", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:53", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:53", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:53", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:53", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:53", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:53", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:55", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:55", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:55", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:55", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:55", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:55", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:57", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:57", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:57", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:57", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:57", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:57", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:59", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:35:59", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:59", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:59", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:35:59", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:35:59", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:01", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:01", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:01", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:01", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:01", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:01", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:03", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:03", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:03", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:03", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:03", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:03", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:05", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:05", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:05", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:05", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:05", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:05", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:07", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:07", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:07", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:07", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:07", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:07", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:09", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:09", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:09", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:09", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:09", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:09", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:11", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:11", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:11", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:11", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:11", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:11", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:13", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:13", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:13", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:13", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:13", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:13", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:15", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:15", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:15", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:15", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:15", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:15", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:17", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:17", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:17", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:17", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:17", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:17", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:19", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:19", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:19", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:19", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:19", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:19", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"status": "failed", "target": "download.ir", "name": "download", "error": "ping: download.ir: Temporary failure in name resolution"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "ping: connect: Network is unreachable"}
+{"result": {"timestamp": "2025-08-11 12:36:21", "name": "download", "target": "download.ir", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "aparat.com", "name": "aparat", "error": "ping: aparat.com: Temporary failure in name resolution"}
+{"status": "failed", "target": "79.127.78.196", "name": "Server", "error": "ping: connect: Network is unreachable"}
+{"status": "failed", "target": "digikala.com", "name": "digikala", "error": "ping: digikala.com: Temporary failure in name resolution"}
+{"result": {"timestamp": "2025-08-11 12:36:21", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:21", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:21", "name": "aparat", "target": "aparat.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:21", "name": "Server", "target": "79.127.78.196", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:21", "name": "digikala", "target": "digikala.com", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": false, "download.ir": false, "aparat.com": false}, "ips": {"79.127.78.196": false, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'not connected'}
+{"result": {"timestamp": "2025-08-11 12:36:23", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 24.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:23", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 13.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:23", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 18.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:23", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 21.6, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:25", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:25", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:27", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 18.6, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:27", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 19.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:27", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 20.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:27", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 14.4, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:29", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:29", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:31", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 30.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:31", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 11.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:31", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 16.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:31", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 11.8, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:33", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:33", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:35", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 33.7, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:35", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 16.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:35", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 13.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:35", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 19.4, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:37", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:37", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:39", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 17.1, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:39", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 13.7, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:39", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 23.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:39", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 13.4, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:41", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:41", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:43", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 27.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:43", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 16.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:43", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 13.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:43", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 13.6, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:45", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:45", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:47", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 19.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:47", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 13.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:47", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 17.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:47", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 13.3, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:49", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:49", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:51", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 22.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:51", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 25.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:51", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 27.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:51", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 13.4, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:53", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:53", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:55", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 67.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:55", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 20.7, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:55", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 15.6, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:55", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 34.1, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:36:57", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:36:57", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:36:59", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 39.9, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:59", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 17.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:59", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 11.9, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:36:59", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 21.1, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:01", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:01", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:03", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 29.9, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:03", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 21.9, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:03", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 27.3, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:03", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 27.3, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:05", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:05", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:07", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 50.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:07", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 34.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:07", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 40.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:08", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 34.8, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:09", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:09", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:11", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 41.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:11", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 23.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:11", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 20.6, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:11", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 19.5, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:13", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:13", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:15", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 29.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:15", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 19.3, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:15", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 19.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:15", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 18.0, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:17", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:17", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:19", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 28.1, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:19", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 16.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:19", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 18.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:19", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 25.8, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:21", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:37:21", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:23", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 24.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:23", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 18.3, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:23", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 18.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:23", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 13.2, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:25", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:25", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:27", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 23.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:27", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 20.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:27", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 15.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:27", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 20.5, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:29", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:37:29", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:31", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 21.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:31", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 18.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:31", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 18.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:31", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 14.5, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:33", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:37:33", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:35", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 20.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:35", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 13.3, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:35", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 15.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:35", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 11.9, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:37", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:37", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:39", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 30.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:39", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 10.7, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:39", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 15.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:39", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 17.5, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:41", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:41", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:43", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 16.6, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:43", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 14.3, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:43", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 15.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:43", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 11.7, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:45", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:45", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:47", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 16.7, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:47", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 16.3, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:47", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 17.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:47", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 19.4, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:49", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:49", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:51", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 26.7, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:51", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 14.3, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:51", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 12.9, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:51", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 17.6, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:53", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:53", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:55", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 19.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:55", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 19.2, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:55", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 18.8, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:55", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 19.0, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:57", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:37:57", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:37:59", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 16.7, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:59", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 12.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:59", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 16.5, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:37:59", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 16.4, "color": "green"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:38:01", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"result": {"timestamp": "2025-08-11 12:38:01", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+{"result": {"timestamp": "2025-08-11 12:38:03", "name": "Server", "target": "79.127.78.196", "status": "connected", "delay_ms": 92.1, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:38:03", "name": "digikala", "target": "digikala.com", "status": "connected", "delay_ms": 19.0, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:38:03", "name": "aparat", "target": "aparat.com", "status": "connected", "delay_ms": 13.4, "color": "green"}}
+{"result": {"timestamp": "2025-08-11 12:38:03", "name": "download", "target": "download.ir", "status": "connected", "delay_ms": 13.3, "color": "green"}}
+{"status": "failed", "target": "10.60.0.1", "name": "VoIP", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:38:05", "name": "VoIP", "target": "10.60.0.1", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"status": "failed", "target": "10.60.0.4", "name": "WireGaurd", "error": "No error output"}
+{"result": {"timestamp": "2025-08-11 12:38:05", "name": "WireGaurd", "target": "10.60.0.4", "status": "disconnected", "delay_ms": null, "color": "red"}}
+{"boolean": {"domains": {"digikala.com": true, "download.ir": true, "aparat.com": true}, "ips": {"79.127.78.196": true, "10.60.0.1": false, "10.60.0.4": false}}}
+{'overall_connection': 'connected'}
+Stopped by user.
